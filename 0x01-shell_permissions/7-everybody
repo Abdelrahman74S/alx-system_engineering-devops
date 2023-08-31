@@ -1,2 +1,2 @@
-#!/bin/bash 
+#!/bin/bash
 chmdo ugo+x hello
