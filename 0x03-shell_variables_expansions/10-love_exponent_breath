@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($LOVE ^ $BREATH)) | bc -1
+echo $(($LOVE^$BREATH)) 
